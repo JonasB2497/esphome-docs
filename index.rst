@@ -258,12 +258,13 @@ Hardware Peripheral Interfaces/Busses
 
 .. imgtable::
 
+    1-Wire, components/one_wire, one-wire.svg
     CAN Bus, components/canbus/index, canbus.svg
     I²C Bus, components/i2c, i2c.svg
     I²S Audio, components/i2s_audio, i2s_audio.svg
+    OpenTherm, components/opentherm, opentherm.png
     SPI Bus, components/spi, spi.svg
     UART, components/uart, uart.svg
-    1-Wire, components/one_wire, one-wire.svg
 
 I/O Expanders/Multiplexers
 --------------------------
@@ -636,6 +637,7 @@ Core
     GPIO, components/binary_sensor/gpio, gpio.svg
     Home Assistant, components/binary_sensor/homeassistant, home-assistant.svg, dark-invert
     Status, components/binary_sensor/status, server-network.svg, dark-invert
+    Switch, components/binary_sensor/switch, electric-switch.svg, dark-invert
 
 Capacitive Touch
 ****************
